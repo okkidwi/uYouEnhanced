@@ -1,0 +1,302 @@
+// About
+"ABOUT" = "Tentang";
+
+"VERSION" = "Versi";
+"VERSION_CHECK" = "Ketuk untuk memeriksa pembaruan!";
+
+"REPORT_AN_ISSUE" = "Laporkan masalah";
+"ADD_TITLE" = "Tambahkan judul Anda di sini...";
+
+"QUIT_YOUTUBE" = "Keluar dari YouTube";
+
+"RESTART_YOUTUBE" = "Mulai ulang YouTube untuk menerapkan perubahan";
+
+// App appearance
+"APP_THEME" = "🎨 Tampilan aplikasi";
+"THEME_OPTIONS" = "Opsi tema";
+
+"DARK_THEME" = "Tema gelap";
+
+"DEFAULT_THEME" = "Default";
+"DEFAULT_THEME_DESC" = "";
+
+"OLD_DARK_THEME" = "Abu-abu lebih terang";
+"OLD_DARK_THEME_DESC" = "Tema gelap lama YouTube";
+
+"OLED_DARK_THEME" = "OLED (eksperimental)";
+"OLED_DARK_THEME_2" = "OLED";
+"OLED_DARK_THEME_DESC" = "Tema gelap hitam pekat";
+
+"OLED_KEYBOARD" = "Keyboard OLED (eksperimental)";
+"OLED_KEYBOARD_DESC" = "";
+
+// Video player options
+"VIDEO_PLAYER_OPTIONS" = "⏯️ Opsi pemutar video";
+
+"SLIDE_TO_SEEK" = "Aktifkan geser untuk seek";
+"SLIDE_TO_SEEK_DESC" = "Mengembalikan gerakan geser untuk seek.";
+
+"DISABLE_DOUBLE_TAP_TO_SEEK" = "Nonaktifkan ketuk dua kali untuk seek";
+"DISABLE_DOUBLE_TAP_TO_SEEK_DESC" = "";
+
+"SNAP_TO_CHAPTER" = "Nonaktifkan snap ke segmen";
+"SNAP_TO_CHAPTER_DESC" = "Menonaktifkan auto snap ke segmen saat seek di video";
+
+"PINCH_TO_ZOOM" = "Nonaktifkan cubit untuk memperbesar";
+"PINCH_TO_ZOOM_DESC" = "";
+
+"YT_MINIPLAYER" = "Aktifkan pemutar mini untuk semua video";
+"YT_MINIPLAYER_DESC" = "Pemutar mini tidak dapat diaktifkan untuk video tertentu (misalnya, video anak-anak). Opsi ini melewati batasan tersebut";
+
+"HIDE_REMIX_BUTTON" = "Sembunyikan tombol remix";
+"HIDE_REMIX_BUTTON_DESC" = "";
+
+"HIDE_CLIP_BUTTON" = "Sembunyikan tombol klip";
+"HIDE_CLIP_BUTTON_DESC" = "";
+
+"HIDE_DOWNLOAD_BUTTON" = "Sembunyikan tombol unduh";
+"HIDE_DOWNLOAD_BUTTON_DESC" = "";
+
+"STOCK_VOLUME_HUD" = "Gunakan HUD volume iOS standar";
+"STOCK_VOLUME_HUD_DESC" = "";
+
+// Video controls overlay options
+"VIDEO_CONTROLS_OVERLAY_OPTIONS" = "📹 Opsi overlay kontrol video";
+
+"HIDE_AUTOPLAY_SWITCH" = "Sembunyikan sakelar putar otomatis";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "";
+
+"HIDE_SUBTITLES_BUTTON" = "Sembunyikan tombol subtitle";
+"HIDE_SUBTITLES_BUTTON_DESC" = "";
+
+"HIDE_HUD_MESSAGES" = "Sembunyikan pesan HUD";
+"HIDE_HUD_MESSAGES_DESC" = "Menyembunyikan snackbar yang muncul untuk tindakan tertentu (misalnya, CC dinyalakan / dimatikan)";
+
+"HIDE_PAID_PROMOTION_CARDS" = "Sembunyikan banner promosi berbayar";
+"HIDE_PAID_PROMOTION_CARDS_DESC" = "";
+
+"HIDE_CHANNEL_WATERMARK" = "Sembunyikan watermark channel";
+"HIDE_CHANNEL_WATERMARK_DESC" = "";
+
+"HIDE_PREVIOUS_AND_NEXT_BUTTON" = "Sembunyikan tombol sebelumnya dan berikutnya";
+"HIDE_PREVIOUS_AND_NEXT_BUTTON_DESC" = "Menyembunyikan di semua video, termasuk playlist";
+
+"REPLACE_PREVIOUS_NEXT_BUTTON" = "Ganti tombol sebelumnya dan berikutnya dengan tombol maju cepat dan mundur";
+"REPLACE_PREVIOUS_NEXT_BUTTON_DESC" = "Mengganti tombol sebelumnya dan berikutnya dengan maju cepat dan mundur";
+
+"RED_PROGRESS_BAR" = "Bilah progres merah";
+"RED_PROGRESS_BAR_DESC" = "";
+
+"HIDE_HOVER_CARD" = "YTNoHoverCards";
+"HIDE_HOVER_CARD_DESC" = "Menyembunyikan layar akhir video";
+
+"HIDE_RIGHT_PANEL" = "Sembunyikan panel engagement dalam layar penuh";
+"HIDE_RIGHT_PANEL_DESC" = "Menyembunyikan panel kanan (misalnya, komentar, live chat, dll.) dalam mode lanskap";
+
+// Shorts controls overlay options
+"SHORTS_CONTROLS_OVERLAY_OPTIONS" = "💥 Opsi overlay kontrol shorts";
+
+"HIDE_SUPER_THANKS" = "Sembunyikan banner \"beli super thanks\"";
+"HIDE_SUPER_THANKS_DESC" = "";
+
+"HIDE_SUBCRIPTIONS" = "Sembunyikan tombol subscription";
+"HIDE_SUBCRIPTIONS_DESC" = "";
+
+"DISABLE_RESUME_TO_SHORTS" = "Nonaktifkan lanjutkan ke shorts";
+"DISABLE_RESUME_TO_SHORTS_DESC" = "Jika Anda menutup YouTube saat menonton shorts, ini mencegahnya melanjutkan secara otomatis saat Anda membuka kembali aplikasi";
+
+// Miscellaneous
+"MISCELLANEOUS" = "🔎 Lainnya";
+
+"HIDE_UYOU" = "Sembunyikan tab uYou";
+"HIDE_ISPONSORBLOCK" = "Sembunyikan tombol iSponsorBlock";
+
+"CAST_CONFIRM" = "YTCastConfirm";
+"CAST_CONFIRM_DESC" = "Menampilkan pemberitahuan konfirmasi sebelum melakukan cast";
+"CASTING" = "Casting";
+"MSG_ARE_YOU_SURE" = "Apakah Anda yakin ingin memulai casting?";
+"MSG_YES" = "Ya";
+"MSG_CANCEL" = "Batal";
+
+"DISABLE_HINTS" = "Nonaktifkan petunjuk";
+"DISABLE_HINTS_DESC" = "Menonaktifkan petunjuk fitur YouTube yang ditampilkan saat aplikasi baru diinstal";
+
+"ENABLE_YT_STARTUP_ANIMATION" = "Aktifkan animasi startup YouTube";
+"ENABLE_YT_STARTUP_ANIMATION_DESC" = "";
+
+"HIDE_CHIP_BAR" = "Sembunyikan bilah atas";
+"HIDE_CHIP_BAR_DESC" = "Menyembunyikan bilah atas di beranda dan feed subscription (misalnya, semua video, lanjutkan menonton, dll.)";
+
+"HIDE_PLAY_NEXT_IN_QUEUE" = "Sembunyikan \"putar berikutnya dalam antrean\"";
+"HIDE_PLAY_NEXT_IN_QUEUE_DESC" = "";
+
+"IPHONE_LAYOUT" = "Paksa tata letak iPhone";
+"IPHONE_LAYOUT_DESC" = "";
+
+"NEW_MINIPLAYER_STYLE" = "BigYTMiniPlayer";
+"NEW_MINIPLAYER_STYLE_DESC" = "Gaya bilah pemutar mini baru";
+
+"YT_RE_EXPLORE" = "YTReExplore";
+"YT_RE_EXPLORE_DESC" = "Mengganti tab shorts dengan tab eksplorasi";
+
+"ENABLE_FLEX" = "Aktifkan FLEX";
+"ENABLE_FLEX_DESC" = "Mengaktifkan FLEX untuk debugging";
+
+"FIX_GOOGLE_SIGNIN" = "Perbaiki Google sign in (hanya untuk pengguna TrollStore)";
+"FIX_GOOGLE_SIGNIN_DESC" = "Hanya aktifkan opsi ini jika Anda tidak dapat masuk dengan akun Google Anda dan aplikasi diinstal melalui TrollStore. Jika Anda dapat masuk secara normal, biarkan dinonaktifkan. Diperlukan mulai ulang aplikasi.";
+
+// uYouEnhanced Localization ➕
+"SUPPORT_THE_DEVELOPERS" = "Dukung pengembang";
+"COPY_SETTINGS" = "Salin pengaturan";
+"COPY_SETTINGS_DESC" = "Salin semua pengaturan saat ini ke papan klip";
+"PASTE_SETTINGS" = "Tempel pengaturan";
+"PASTE_SETTINGS_DESC" = "Tempel pengaturan dari papan klip dan terapkan";
+"EXPORT_SETTINGS" = "Ekspor pengaturan";
+"EXPORT_SETTINGS_DESC" = "Ekspor semua pengaturan saat ini ke file .txt";
+"IMPORT_SETTINGS" = "Impor pengaturan";
+"IMPORT_SETTINGS_DESC" = "Tekan untuk mengimpor pengaturan (.txt)";
+"REPLACE_COPY_AND_PASTE_BUTTONS" = "Ganti tombol 'salin pengaturan' & 'tempel pengaturan'";
+"REPLACE_COPY_AND_PASTE_BUTTONS_DESC" = "Mengganti tombol dengan 'ekspor pengaturan' dan 'impor pengaturan'";
+
+"UYOUENHANCED_ESSENTIAL_MENU" = "Menu esensial uYouEnhanced";
+"CHANGE_APP_ICON" = "Ganti ikon aplikasi";
+"CLEAR_NOTIFICATIONS" = "Hapus notifikasi";
+"CLEAR_NOTIFICATIONS_DESC" = "Paksa hapus semua notifikasi aplikasi (direkomendasikan saat di sideload)";
+
+"CUSTOM_DARK_THEME" = "Tema gelap kustom";
+
+"ENABLE_PORTRAIT_FULLSCREEN" = "Aktifkan layar penuh potret";
+"ENABLE_PORTRAIT_FULLSCREEN_DESC" = "Mengaktifkan layar penuh potret di aplikasi YouTube. Diperlukan mulai ulang aplikasi.";
+"ENABLE_TAP_TO_SEEK" = "Aktifkan ketuk untuk seek";
+"ENABLE_TAP_TO_SEEK_DESC" = "Langsung ke bagian mana saja di video dengan mengetuk bilah pencarian sekali";
+"DISABLE_PULL_TO_FULLSCREEN_GESTURE" = "Nonaktifkan gerakan tarik untuk layar penuh";
+"DISABLE_PULL_TO_FULLSCREEN_GESTURE_DESC" = "Menonaktifkan gerakan seret untuk masuk ke layar penuh vertikal. Hanya berlaku untuk video lanskap.";
+"DISABLE_DOUBLE_TAP_TO_SKIP_CHAPTER" = "Nonaktifkan ketuk dua kali untuk lewati segmen";
+"DISABLE_DOUBLE_TAP_TO_SKIP_CHAPTER_DESC" = "Menonaktifkan gerakan ketuk dua kali dengan dua jari yang melompat maju / mundur berdasarkan segmen.";
+"ALWAYS_USE_REMAINING_TIME" = "Selalu gunakan waktu tersisa";
+"ALWAYS_USE_REMAINING_TIME_DESC" = "Mengubah default untuk menampilkan waktu tersisa di bilah pemutar.";
+"DISABLE_TOGGLE_TIME_REMAINING" = "Nonaktifkan alihkan waktu tersisa";
+"DISABLE_TOGGLE_TIME_REMAINING_DESC" = "Menonaktifkan perubahan waktu berlalu menjadi waktu tersisa. Gunakan dengan pengaturan lain untuk selalu menampilkan waktu tersisa.";
+
+"ENABLE_SHARE_BUTTON" = "Aktifkan tombol bagikan";
+"ENABLE_SHARE_BUTTON_DESC" = "Mengaktifkan tombol bagikan di overlay kontrol video.";
+"ENABLE_SAVE_TO_PLAYLIST_BUTTON" = "Aktifkan tombol simpan ke playlist";
+"ENABLE_SAVE_TO_PLAYLIST_BUTTON_DESC" = "Mengaktifkan tombol simpan ke playlist di overlay kontrol video.";
+"HIDE_YTMUSIC_BUTTON" = "Sembunyikan tombol YouTube music";
+"HIDE_YTMUSIC_BUTTON_DESC" = "Menyembunyikan tombol YouTube music yang muncul dengan premium.";
+"HIDE_VIDEO_TITLE_IN_FULLSCREEN" = "Sembunyikan judul video di layar penuh";
+"HIDE_VIDEO_TITLE_IN_FULLSCREEN_DESC" = "Menyembunyikan judul video beserta fungsionalitasnya di bagian kiri atas pemutar video layar penuh.";
+"HIDE_COLLAPSE_BUTTON" = "Sembunyikan tombol ciutkan";
+"HIDE_COLLAPSE_BUTTON_DESC" = "Menyembunyikan tombol panah untuk mengecilkan yang ditampilkan di kiri atas pemutar video.";
+"HIDE_FULLSCREEN_BUTTON" = "Sembunyikan tombol layar penuh";
+"HIDE_FULLSCREEN_BUTTON_DESC" = "Menyembunyikan tombol layar penuh yang ditampilkan di kanan bawah pemutar video.";
+"HIDE_SHADOW_OVERLAY_BUTTONS" = "Sembunyikan tombol overlay bayangan";
+"HIDE_SHADOW_OVERLAY_BUTTONS_DESC" = "Menyembunyikan overlay bayangan pada tombol putar / jeda, sebelumnya, berikutnya, maju & mundur.";
+"HIDE_FULLSCREEN_ACTION_BUTTONS" = "Sembunyikan tombol aksi layar penuh";
+"HIDE_FULLSCREEN_ACTION_BUTTONS_DESC" = "Menyembunyikan tombol-tombol di bagian bawah layar saat dalam mode lanskap.";
+"HIDE_SUGGESTED_VIDEO" = "Sembunyikan video disarankan";
+"HIDE_SUGGESTED_VIDEO_DESC" = "Menghapus popup video disarankan saat selesai menonton video. Perlu diketahui bahwa ini akan mencegah fitur putar otomatis berfungsi.";
+"HIDE_HEATWAVES_BAR" = "Sembunyikan bilah heatwaves";
+"HIDE_HEATWAVES_BAR_DESC" = "Menyembunyikan bilah heatwaves yang awalnya ditampilkan di bilah progres secara default di pemutar video. Diperlukan mulai ulang aplikasi.";
+"HIDE_DOUBLE_TAP_TO_SEEK_OVERLAY" = "Sembunyikan overlay ketuk dua kali untuk mencari";
+"HIDE_DOUBLE_TAP_TO_SEEK_OVERLAY_DESC" = "Menyembunyikan overlay animasi ketuk dua kali untuk mencari di pemutar video. Diperlukan mulai ulang aplikasi.";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Sembunyikan latar belakang overlay gelap";
+"HIDE_DARK_OVERLAY_BACKGROUND_DESC" = "Menyembunyikan latar belakang overlay gelap di pemutar video. Diperlukan mulai ulang aplikasi.";
+"HIDE_AMBIENT_MODE_IN_FULLSCREEN" = "Sembunyikan mode pencahayaan sinematik di layar penuh";
+"HIDE_AMBIENT_MODE_IN_FULLSCREEN_DESC" = "Menyembunyikan dan mencegah mode pencahayaan sinematik dari digunakan di pemutar video saat dalam layar penuh. Diperlukan mulai ulang aplikasi.";
+"HIDE_SUGGESTED_VIDEOS_IN_FULLSCREEN" = "Sembunyikan video disarankan di layar penuh";
+"HIDE_SUGGESTED_VIDEOS_IN_FULLSCREEN_DESC" = "Menyembunyikan video yang disarankan kapan pun di pemutar video layar penuh. Diperlukan mulai ulang aplikasi.";
+"HIDE_ALL_VIDEOS_UNDER_PLAYER" = "Sembunyikan semua video di bawah pemutar";
+"HIDE_ALL_VIDEOS_UNDER_PLAYER_DESC" = "Menghapus semua video di bawah pemutar video. Tergantung pada orientasi perangkat.";
+
+"SHORTS_QUALITY_PICKER" = "Pemilih kualitas shorts";
+"SHORTS_QUALITY_PICKER_DESC" = "Mengaktifkan pemilih kualitas YouTube shorts.";
+
+"VIDEO_PLAYER_BUTTON_OPTIONS" = "Opsi tombol pemutar video";
+
+"RED_SUBSCRIBE_BUTTON" = "Tombol berlangganan merah";
+"RED_SUBSCRIBE_BUTTON_DESC" = "Mengembalikan warna tombol berlangganan menjadi merah.";
+"HIDE_BUTTON_CONTAINERS_UNDER_PLAYER" = "Sembunyikan wadah tombol di bawah pemutar";
+"HIDE_BUTTON_CONTAINERS_UNDER_PLAYER_DESC" = "Menyembunyikan wadah tombol di bawah pemutar video.";
+"HIDE_CONNECT_BUTTON" = "Sembunyikan tombol hubungkan di bawah pemutar";
+"HIDE_CONNECT_BUTTON_DESC" = "Menyembunyikan tombol hubungkan di bawah pemutar video.";
+"HIDE_SHARE_BUTTON" = "Sembunyikan tombol bagikan di bawah pemutar";
+"HIDE_SHARE_BUTTON_DESC" = "Menyembunyikan tombol bagikan di bawah pemutar video.";
+"HIDE_THANKS_BUTTON" = "Sembunyikan tombol terima kasih di bawah pemutar";
+"HIDE_THANKS_BUTTON_DESC" = "Menyembunyikan tombol terima kasih di bawah pemutar video.";
+"HIDE_SAVE_BUTTON" = "Sembunyikan tombol simpan di bawah pemutar";
+"HIDE_SAVE_BUTTON_DESC" = "Menyembunyikan tombol simpan di bawah pemutar video.";
+"HIDE_REPORT_BUTTON" = "Sembunyikan tombol laporkan di bawah pemutar";
+"HIDE_REPORT_BUTTON_DESC" = "Menyembunyikan tombol laporkan di bawah pemutar video.";
+"HIDE_COMMENT_PREVIEWS_UNDER_PLAYER" = "Sembunyikan pratinjau komentar di bawah pemutar";
+"HIDE_COMMENT_PREVIEWS_UNDER_PLAYER_DESC" = "Menyembunyikan pratinjau komentar di bawah pemutar video.";
+"HIDE_COMMENT_SECTION_BUTTON" = "Sembunyikan bagian komentar di bawah pemutar";
+"HIDE_COMMENT_SECTION_BUTTON_DESC" = "Menyembunyikan bagian komentar di bawah pemutar video.";
+
+"APP_SETTINGS_OVERLAY_OPTIONS" = "Opsi overlay pengaturan aplikasi";
+
+"HIDE_ACCOUNT_SECTION" = "Sembunyikan bagian `akun`";
+"HIDE_AUTOPLAY_SECTION" = "Sembunyikan bagian `putar otomatis`";
+"HIDE_TRY_NEW_FEATURES_SECTION" = "Sembunyikan bagian `coba fitur baru`";
+"HIDE_VIDEO_QUALITY_PREFERENCES_SECTION" = "Sembunyikan bagian `preferensi kualitas video`";
+"HIDE_NOTIFICATIONS_SECTION" = "Sembunyikan bagian `notifikasi`";
+"HIDE_MANAGE_ALL_HISTORY_SECTION" = "Sembunyikan bagian `kelola semua history`";
+"HIDE_YOUR_DATA_IN_YOUTUBE_SECTION" = "Sembunyikan bagian `data anda di YouTube`";
+"HIDE_PRIVACY_SECTION" = "Sembunyikan bagian `privasi`";
+"HIDE_LIVE_CHAT_SECTION" = "Sembunyikan bagian `live chat`";
+"HIDE_GET_YOUTUBE_PREMIUM_SECTION" = "Sembunyikan bagian `dapatkan YouTube premium`";
+
+"UI_INTERFACE_OPTIONS" = "Opsi UI pengguna";
+
+"HIDE_HOME_TAB" = "Sembunyikan tab beranda";
+"LOW_CONTRAST_MODE" = "Mode kontras rendah";
+"LOW_CONTRAST_MODE_DESC" = "Ini akan menurunkan kontras warna pada teks dan tombol, mirip dengan UI aplikasi YouTube sebelum 2020.";
+"LOW_CONTRAST_MODE_SELECTOR" = "Pemilih mode kontras rendah";
+"LOW_CONTRAST_MODE_ERROR_1" = "Anda menggunakan v%@ yang merupakan versi YouTube yang dihentikan dan tidak lagi berfungsi. Silakan gunakan v17.33.2-17.38.10 agar dapat menggunakan mode kontras rendah.";
+"LOW_CONTRAST_MODE_ERROR_2" = "Mode kontras rendah hanya tersedia untuk versi aplikasi v17.33.2-v17.38.10.\nAnda saat ini menggunakan v%@.\nSolusi: jika ingin menggunakannya, disarankan untuk mengaktifkan opsi \"perbaiki mode kontras rendah\".";
+"FIX_LOWCONTRASTMODE" = "Perbaiki mode kontras rendah";
+"FIX_LOWCONTRASTMODE_DESC" = "Ini akan memperbaiki dan mengaktifkan fungsionalitas mode kontras rendah dengan menyamarkan ke YouTube v17.38.10. Diperlukan mulai ulang aplikasi.";
+"DISABLE_MODERN_BUTTONS" = "Nonaktifkan tombol modern";
+"DISABLE_MODERN_BUTTONS_DESC" = "Ini akan menghapus beberapa tombol modern / chip baru di aplikasi YouTube. Diperlukan mulai ulang aplikasi.";
+"DISABLE_ROUNDED_CORNERS_ON_HINTS" = "Nonaktifkan sudut membulat pada petunjuk";
+"DISABLE_ROUNDED_CORNERS_ON_HINTS_DESC" = "Ini akan membuat petunjuk di aplikasi tidak memiliki sudut membulat. Diperlukan mulai ulang aplikasi.";
+"DISABLE_MODERN_FLAGS" = "Nonaktifkan pengaturan modern";
+"DISABLE_MODERN_FLAGS_DESC" = "Ini akan mematikan semua pengaturan modern yang diaktifkan secara default. Diperlukan mulai ulang aplikasi.";
+"YTNOMODERNUI" = "Aktifkan opsi terkait UI khusus (ytNoModernUI)";
+"YTNOMODERNUI_DESC" = "Ini akan secara spesifik mengaktifkan opsi lain untuk membuat aplikasi terlihat dan terasa kurang modern. Diperlukan mulai ulang aplikasi.";
+"ENABLE_APP_VERSION_SPOOFER" = "Aktifkan pemalsuan versi aplikasi";
+"ENABLE_APP_VERSION_SPOOFER_DESC" = "Aktifkan ini untuk menggunakan pemalsuan versi dan pilih versi yang Anda inginkan di bawah. Diperlukan mulai ulang aplikasi.";
+"VERSION_SPOOFER_SELECTOR" = "Pemilih pemalsuan versi";
+
+"ADBLOCK_WORKAROUND_LITE" = "Solusi AdBlock (lite)";
+"ADBLOCK_WORKAROUND_LITE_DESC" = "Menggunakan kode pemblokiran iklan yang lebih lemah, ini akan menonaktifkan opsi pemblokiran iklan uYou.";
+"ADBLOCK_WORKAROUND" = "Solusi AdBlock";
+"ADBLOCK_WORKAROUND_DESC" = "Menggunakan kode pemblokiran iklan yang lebih kuat.";
+"FAKE_PREMIUM" = "Premium palsu";
+"FAKE_PREMIUM_DESC" = "Menggunakan logo premium dan membuat tombol palsu di tab You. Akan menonaktifkan logo animasi YouTube.";
+"FAKE_PREMIUM_WARNING" = "Tab *You* tidak ada di v%@, tombol palsu tidak akan dibuat.\nTapi *logo premium palsu* tetap akan berfungsi.";
+"FAKE_YOUR_PREMIUM_BENEFITS" = "Manfaat premium Anda";
+"FAKE_DOWNLOADS" = "Unduhan";
+"DISABLE_ANIMATED_YOUTUBE_LOGO" = "Nonaktifkan logo YouTube animasi";
+"CENTER_YOUTUBE_LOGO" = "Pusatkan logo YouTube";
+"CENTER_YOUTUBE_LOGO_DESC" = "Alihkan ini untuk memindahkan logo YouTube official ke pusat. Diperlukan mulai ulang aplikasi.";
+"HIDE_YOUTUBE_LOGO" = "Sembunyikan logo YouTube";
+"HIDE_YOUTUBE_LOGO_DESC" = "Alihkan ini untuk menyembunyikan logo YouTube di aplikasi YouTube.";
+"STICK_NAVIGATION_BAR" = "Permanenkan bilah navigasi";
+"STICK_NAVIGATION_BAR_DESC" = "Ini akan membuat bilah navigasi tetap terlihat saat menggulir di seluruh aplikasi.";
+"HIDE_COMMUNITY_POSTS" = "Sembunyikan postingan komunitas";
+"HIDE_COMMUNITY_POSTS_DESC" = "Menyembunyikan postingan komunitas. Diperlukan mulai ulang aplikasi.";
+"HIDE_HEADER_LINKS_UNDER_PROFILE" = "Sembunyikan tautan header di bawah profil channel";
+"HIDE_HEADER_LINKS_UNDER_PROFILE_DESC" = "Menyembunyikan tautan header di bawah profil channel mana pun.";
+"AUTO_HIDE_HOME_INDICATOR" = "Sembunyikan indikator beranda secara otomatis";
+"AUTO_HIDE_HOME_INDICATOR_DESC" = "Secara otomatis menyembunyikan indikator beranda iOS saat tidak berinteraksi dengan aplikasi.";
+"HIDE_INDICATORS" = "Sembunyikan indikator";
+"HIDE_INDICATORS_DESC" = "Menyembunyikan semua indikator yang saat ini ada di aplikasi.";
+"FIX_CASTING" = "Perbaiki casting";
+"FIX_CASTING_DESC" = "Mengubah beberapa pengaturan A/B untuk memperbaiki casting.";
+"NEW_SETTINGS_UI" = "Gunakan UI pengaturan baru";
+"NEW_SETTINGS_UI_DESC" = "Mengaktifkan UI pengaturan baru dengan kategori tweak.";
+
+"DEFAULT" = "Default";
+"CUSTOM_COLOR" = "Warna kustom";
+"RESTART_REQUIRED" = "Diperlukan mulai ulang aplikasi.";
